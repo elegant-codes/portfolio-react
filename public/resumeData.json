@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Ajakaye Ayobami",
+    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
+    "description": "Frontend React Developer, Graphics Designer && Freelancer",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Ayobami, I'm a Frontend ReactJS Developer. Currently I'm looking for a frontend developer role in any great organization ",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "ajakayetolu@gmail.com",
+    "phone": "+234 810 305 8078",
+    "address": {
+      "street": "No 1, Divine str, Redemption camp",
+      "city": "Mowe",
+      "state": "Ogun",
+      "zip": "110115"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/11PLuSgpwFmlHojCucAoAXOn_-xJ-jruq/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ajakayetolu.ayobami",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/ayobami-ajakaye-901657a5",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/elegant_graphix/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/elegant-codes",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Federal University Of Technology, Akure",
+        "degree": "Bachelor Of Technology Computer Science",
+        "graduated": "December 2019",
+        "description": "Final Project: Depression Detection on social media posts."
+      }
+    ],
+    "work": [
+      {
+        "company": "Planet NEST",
+        "title": "Frontend Developer Intern",
+        "years": "June 2018 - December 2018",
+        "description": "Worked with Git, HTML, CSS, SASS and Bootstrap"
+      },
+      {
+        "company": "HNG",
+        "title": "Software Engineer Intern",
+        "years": "June 2020 - August 2020",
+        "description": "Remote experience, UIUX, ReactJS"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
